@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" height="500" src="https://i.pinimg.com/originals/42/57/db/4257dbe5fc8db38f50115debbab432ba.gif">
+
 <h1 align="center">Hi 👋, I'm Ravi Yadav</h1>
 <h3 align="center">Creative looking to constantly up my skills by building projects and endlessly learning about the fascinating software development world.</h3>
 
