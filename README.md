@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviiiiyadav&label=Profile%20views&color=0e75b6&style=flat" alt="raviiiiyadav" /> </p>
 
-- 🌱 I’m currently learning **Next.js, docker, kubernetes.**
+- 🌱 I’m currently learning **Next.js,Web 3 Technologies.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaviiiiYadav](https://github.com/RaviiiiYadav)
 
 - 💬 Ask me about **java, JavaScript, react.**
 
-- 📫 How to reach me **raviyadavb02@gmail.com**
+- 📫 How to reach me **raviyadavbi02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
